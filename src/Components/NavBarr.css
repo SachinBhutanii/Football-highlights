@@ -1,0 +1,39 @@
+ul {
+  list-style-type: none;
+  /* background: #5bc0de; */
+  background: #292b2c;
+  width: 100%;
+  z-index: 55;
+  height: 80px;
+}
+
+li {
+  float: left;
+}
+
+.padlogo {
+  padding-left: 10%;
+  padding-top: 5px;
+}
+.padlogo1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btnbg {
+  color: white;
+  font-size: 25px;
+}
+.btnbg:hover{  color: rgb(153, 153, 151);
+
+}
+
+.n {
+  padding: 0 150px;
+}
+.im {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

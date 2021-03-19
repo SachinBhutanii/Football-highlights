@@ -1,0 +1,82 @@
+.h1-txt {
+  padding-left: 50px;
+  text-align: center;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  padding-top: 30px;
+  font-size: 40px;
+}
+
+.calander-picker {
+  text-align: center;
+}
+
+.date-d {
+  color: white;
+}
+
+.watch {
+  color: white;
+  font-size: 60px;
+}
+
+.drop-down-div {
+  color: white;
+}
+
+label {
+  color: white;
+  font-size: 25px;
+}
+
+.search-in {
+  width: 50%;
+  height: 40px;
+  border-radius: 8px;
+}
+.Search-input {
+  text-align: center;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.not-found {
+  text-align: center;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+ul {
+  display: inline;
+  display: flex;
+  list-style-type: none;
+}
+
+.btn {
+  margin-left: 10px;
+}
+
+.highlights {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  padding-top: 30px;
+}
+
+.highlights-txt {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  padding-top: 30px;
+}
+
+.highlights-img {
+  height: 70%;
+  position: relative;
+  left: 45%;
+  transform: translateX(-50%);
+  padding-top: 30px;
+}

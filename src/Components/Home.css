@@ -1,0 +1,13 @@
+.club {
+  padding: 0 150px 0 150px;
+  width: 70%;
+  height: 800px;
+}
+
+.football {
+  border-bottom: 3px solid black;
+  /* background-color: #292b2c; */
+  /* color: #292b2c; */
+  display: inline;
+  font-size: 50px;
+}

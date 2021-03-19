@@ -1,0 +1,26 @@
+.dash-div {
+  text-align: center;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  padding-top: 5px;
+  font-size: 40px;
+}
+
+.in-div {
+  padding-top: 30px;
+}
+
+.ney-img {
+  width: 45%;
+}
+
+.welcom {
+  padding-top: 20px;
+  font-size: 70px;
+}
+
+.access {
+  color: red;
+  font-size: 80px;
+}

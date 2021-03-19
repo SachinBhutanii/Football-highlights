@@ -1,0 +1,13 @@
+.text-login {
+  text-align: center;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  padding-top: 30px;
+  font-size: 40px;
+}
+.nf {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

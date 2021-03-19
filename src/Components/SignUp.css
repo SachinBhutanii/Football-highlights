@@ -1,0 +1,50 @@
+.sign {
+  padding-top: 4%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.formpad {
+  padding-top: 8%;
+  padding-left: 20%;
+}
+.abc {
+  width: 50%;
+}
+.form1 {
+  width: 80%;
+  border: 2px solid rgb(101, 103, 105);
+  border-radius: 20px;
+  padding: 5%;
+  background-color: #292b2c;
+  color: white;
+}
+.forminput {
+  width: 100%;
+  height: 40px;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+}
+.forminput:focus {
+  border: 2px solid gray;
+}
+input:focus {
+  outline: none;
+}
+.formlabel {
+  margin-top: 1%;
+  text-align: center;
+  font-size: 18px;
+}
+.signh2 {
+  font-size: 45px;
+  padding-bottom: 10px;
+}
+.padbtt {
+  padding-top: 5%;
+}
+
+.err {
+  color: red;
+}

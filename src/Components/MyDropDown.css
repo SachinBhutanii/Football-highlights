@@ -1,0 +1,25 @@
+.drop-div {
+  text-align-last: center;
+}
+
+.matches {
+  /* color: #292b2c; */
+
+  background-color: #292b2c;
+  font-size: 1vw;
+  font-weight: bolder;
+  width: 30%;
+  height: 40px;
+  color: aliceblue;
+  text-align-last: center;
+  margin-bottom: 30px;
+}
+
+.league {
+  text-align: center;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  padding-top: 30px;
+  font-size: 40px;
+}

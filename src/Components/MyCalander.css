@@ -1,0 +1,48 @@
+.calander-picker {
+  /* background-color: rgb(168, 168, 168); */
+  text-align: center;
+  /* background-color: #5bc0de; */
+  background-color: #292b2c;
+  font-size: 1vw;
+  font-weight: bolder;
+  width: 100%;
+  height: 40px;
+  color: aliceblue;
+  text-align-last: center;
+  margin-bottom: 30px;
+}
+
+.calander-div {
+  text-align: center;
+}
+
+.date-d {
+  color: black;
+}
+
+.cal-text {
+  padding-top: 30px;
+  text-align: center;
+}
+.cal {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  padding-top: 30px;
+}
+
+.cal-txt {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  padding-top: 30px;
+}
+
+.cal-img {
+  height: 70%;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  padding-top: 30px;
+  /* opacity: 0.5; */
+}

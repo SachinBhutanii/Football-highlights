@@ -1,0 +1,5 @@
+export const FETCH_ITEMS_REQUEST = "FETCH_ITEMS_REQUEST";
+export const FETCH_ITEMS_SUCCESS = "FETCH_ ITEMS_SUCCESS";
+export const FETCH_ITEMS_ERROR = "FETCH_ITEMS_ERROR";
+export const ADD_FAV = "ADD_FAV";
+export const REM_FAV = "REM_FAV";
